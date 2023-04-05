@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAV33XBRPRNB4ZMYGG
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/403439717346/mytechie-queue
